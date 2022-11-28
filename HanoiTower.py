@@ -8,5 +8,4 @@ def hanoi(tile,start,middle,destination):
     return 0
 if __name__ =="__main__":
     hanoi(3,"A","B","C")
-    
-    
+    hanoi(4,"D","E","F")
